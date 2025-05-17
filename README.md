@@ -6,9 +6,11 @@
 
 # Датасет
 
-**Ссылка:** https://www.kaggle.com/datasets/sadhliroomyprime/football-semantic-segmentation
+**Ссылка:** [Football (Semantic Segmentation)](https://www.kaggle.com/datasets/sadhliroomyprime/football-semantic-segmentation)
+
 **Цель:** Автоматическая идентификация и разделение объектов (таких как игроки, мяч, поле и другие элементы сцены) на футбольных изображениях. Это может использоваться в спортивной аналитике, судействе, трекинге и телетрансляциях.
+
 **Пример исходного изображения и разметки:**
 
-![img](img/img.jpn)
+![img](img/img.jpg)
 ![mask](img/mask.png)
