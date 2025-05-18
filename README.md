@@ -31,3 +31,6 @@
 **Улучшенный бэйзлайн**
 ![baseline](img/better_baseline.png)
 
+**Самостоятельная реализация
+![selfmade](img/selfmade.png)
+
